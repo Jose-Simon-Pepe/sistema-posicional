@@ -1,0 +1,19 @@
+= Filosofía del sistema posicional
+José Pepé <jose.s.contacto@gmail.com>
+:toc:
+
+Este documento provee una descripción de la filosofía del sistema posicional.
+
+== Acercamiento al desarrollo de la filosofía
+
+- El acercamiento se da mediante métodos Holísticos
+
+== Objetivos del desarrollo 
+
+El objetivo principal es desarrollar la "discusión fundamental" de la comprensión de los sistemas y problemáticas donde el sistema posicional debe desplegar sus soluciones.
+Hay que definir a qué problemas debe orientarse el sistema posicional, así cómo las asunciones y creencias cuidadosamente discutidas, elegidas y sembradas para obtener un fruto funcional y rigurosamente basado.
+
+El objetivo secundario es el desarrollo, basado en esa discusión fundamental, de un approach general perteneciente al sistema posicional, que permita entonces el desarrollo de diferentes metodologías para los principales y generales problemas a resolver.
+La elección de prácticas se basa en criterios a formular en esta filosofía.
+
+Otro objetivo secundario es la formulación de un lenguaje obicuo propio, que el sistema posicional heredará, el cual se verá a lo largo de toda la propuesta tanto en las áreas más abstractas, como en varias concretitudes.
