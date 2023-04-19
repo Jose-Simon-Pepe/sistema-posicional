@@ -17,3 +17,29 @@ El objetivo secundario es el desarrollo, basado en esa discusión fundamental, d
 La elección de prácticas se basa en criterios a formular en esta filosofía.
 
 Otro objetivo secundario es la formulación de un lenguaje obicuo propio, que el sistema posicional heredará, el cual se verá a lo largo de toda la propuesta tanto en las áreas más abstractas, como en varias concretitudes.
+
+== Modelos de datos del sistema
+
+Individuo: Identidad para el área sociológica, Área sociológica, Área de su saber, Área de su producción, Área de sus recursos
+
+== El individuo
+
+El sistema posicional tiene cómo problema principal el llevar a un individuo humano a la mejor posicion en la vida posible, entendiendo "mejor" cómo el conjunto de creencias, visiones y estados futuros en el cual el individuo cree que está su objetivo vital.
+
+El individuo se llama de esa forma, y no "Persona", porque el primer término está más cerca del concepto "especie humana" que se relaciona más al objetivo principal que el concepto "Persona" el cual no se diferencia de conceptos de Derecho o Ética, dos áreas que no son de interés principal del sistema.
+
+Para mayor simplicidad de lectura, es recomendable entender como Individuo a vos mismo/a. Sin embargo, por motivos de explicación, la redacción siempre mantendrá el término inalterable.
+
+== Áreas del individuo
+
+El individuo consiste en un conjunto de áreas principales:
+
+. Sociológica: El individuo se relaciona voluntaria y/o forzosamente con otros, y también con conjuntos de ellos, para conseguir sus objetivos y ayudar a conseguir los objetivos de sus individuos cercanos.
+
+. Saber: El individuo sabe cosas en diferentes niveles. Pero la definición no queda simplemente en un almacen de conocimientos, si no que se expande al concepto de epistemología, donde el individuo se preocupa por validar y justificar racionalmente sus conocimientos, sus fuentes de aprendizaje, por reconocer sus propias creencias base, por reconocer y optimizar su forma de estudio, y demás. No existe el concepto de particularismo epistemológico, es decir, el saber sin interesarse del por qué y cómo se sabe.
+
+. Producción: El individuo es un agente activo en el mundo fáctico, y desarrolla proyectos que corresponden a todo un árbol de objetivos individuales que debe tenerse en cuenta al momento de invertir y priorizar.
+
+. Recursos: El individuo tiene poder solo si tiene recursos de algun tipo. Pueden ser recursos dentro del área sociológica, cómo la persuación o el dinero, pueden ser recursos del saber, como el conocimiento o experiencia, pueden ser recursos de la producción, como herramientas y sistemas propios, y demás áreas.
+
+
