@@ -34,13 +34,13 @@ Para mayor simplicidad de lectura, es recomendable entender como Individuo a vos
 
 El individuo consiste en un conjunto de áreas principales:
 
-. Sociológica: El individuo se relaciona voluntaria y/o forzosamente con otros, y también con conjuntos de ellos, para conseguir sus objetivos y ayudar a conseguir los objetivos de sus individuos cercanos.
+. Interpersonal: El individuo se relaciona voluntaria y/o forzosamente con otros, y también con conjuntos de ellos, para conseguir sus objetivos y ayudar a conseguir los objetivos de sus individuos cercanos.
 
-. Saber: El individuo sabe cosas en diferentes niveles. Pero la definición no queda simplemente en un almacen de conocimientos, si no que se expande al concepto de epistemología, donde el individuo se preocupa por validar y justificar racionalmente sus conocimientos, sus fuentes de aprendizaje, por reconocer sus propias creencias base, por reconocer y optimizar su forma de estudio, y demás. No existe el concepto de particularismo epistemológico, es decir, el saber sin interesarse del por qué y cómo se sabe.
+. Cognitiva: El individuo sabe cosas en diferentes niveles. Pero la definición no queda simplemente en un almacen de conocimientos, si no que se expande al concepto de epistemología, donde el individuo se preocupa por validar y justificar racionalmente sus conocimientos, sus fuentes de aprendizaje, por reconocer sus propias creencias base, por reconocer y optimizar su forma de estudio, y demás. No existe el concepto de particularismo epistemológico, es decir, el saber sin interesarse del por qué y cómo se sabe.
 
-. Producción: El individuo es un agente activo en el mundo fáctico, y desarrolla proyectos que corresponden a todo un árbol de objetivos individuales que debe tenerse en cuenta al momento de invertir y priorizar.
+. Productiva: El individuo es un agente activo en el mundo fáctico, y desarrolla proyectos que corresponden a todo un árbol de objetivos individuales que debe tenerse en cuenta al momento de invertir y priorizar.
 
-. Recursos: El individuo tiene poder solo si tiene recursos de algun tipo. Pueden ser recursos dentro del área sociológica, cómo la persuación o el dinero, pueden ser recursos del saber, como el conocimiento o experiencia, pueden ser recursos de la producción, como herramientas y sistemas propios, y demás áreas.
+. De recusos: El individuo tiene poder solo si tiene recursos de algun tipo. Pueden ser recursos dentro del área sociológica, cómo la persuación o el dinero, pueden ser recursos del saber, como el conocimiento o experiencia, pueden ser recursos de la producción, como herramientas y sistemas propios, y demás áreas.
 
 == Lenguaje específico
 
