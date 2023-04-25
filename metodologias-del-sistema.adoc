@@ -12,3 +12,16 @@ El sistema posicional cuenta con X metodologías, una para cada área del indivi
 . Área Cognitiva: Metodología Cognitiva
 . Área Productiva: Metodología Productiva
 . Área de Recursos: Metodología de Recursos
+
+== Estructura de las metodologías
+
+Cada metodología se estructura, al menos, de:
+
+. Base: creencias, valores y principios
+. Acercamiento: La aplicación de la Base hacia objetivos directos de cada metodología
+. Métodos: Un conjunto de diferentes métodos seleccionados, clasificados por el approach al que corresponden.
+. Guía creativa: Un conjunto de sugerencias, recomendaciones y reestricciones para que el individuo pueda crear sus propios métodos.
+
+== Descripción de cada metodología
+
+
