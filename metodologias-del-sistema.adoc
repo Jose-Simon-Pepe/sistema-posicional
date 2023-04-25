@@ -1,0 +1,14 @@
+= Metodologías del sistema
+José Pepé <jose.s.contacto@gmail.com>
+:toc:
+
+Este documento provee una descripción de las diferentes metodologías del sistema posicional
+
+== Qué metodologías tiene
+
+El sistema posicional cuenta con X metodologías, una para cada área del individuo.
+
+. Área Interpersonal: Metodología Interpersonal
+. Área Cognitiva: Metodología Cognitiva
+. Área Productiva: Metodología Productiva
+. Área de Recursos: Metodología de Recursos
