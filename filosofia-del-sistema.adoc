@@ -42,4 +42,16 @@ El individuo consiste en un conjunto de áreas principales:
 
 . Recursos: El individuo tiene poder solo si tiene recursos de algun tipo. Pueden ser recursos dentro del área sociológica, cómo la persuación o el dinero, pueden ser recursos del saber, como el conocimiento o experiencia, pueden ser recursos de la producción, como herramientas y sistemas propios, y demás áreas.
 
+== Lenguaje específico
 
+=== Para la acción 
+
+. Asunto: Es una necesidad concreta de acción que tiene el individuo. Se identifican 3 tipos de asunto, Proyectos, Tareas y Acciones. Por accidente Y NUNCA POR DEFINICIÓN un proyecto es más complejo que una tarea, y a su vez, ésta es más compleja que una acción. Responde a la situación actual del individuo. Componer a los proyectos por solo tareas, y a estas por solo acciones, sería un error dado que se deja de lado la información y los recursos necesarios para completarlos a cada uno. Además, genera en la ambiguedad de la definición típica, una falsa concepción que parte de entender que "el trabajo solo es actuar, y no su definición y los recursos que requiere"
+
+. Acción: Es la mínima unidad absoulta de acción medible del individuo. Es además algo concreto, es nacida del análisis de la situación actual del individuo (Recursos como el conocimiento, compromisos, etc) con objetivo de acercarse a completar el asunto. Depende del conocimiento actual casi totalmente, dado que adquirir más conocimientos es una acción por si mismas.
+
+. Tarea: Es una propuesta de lo que se debe hacer para completar un asunto. Las tareas sirven principalmente para socializar las acciones o trabajo, y el conocimiento mediante la comunicación en términos generales. También le sirven al individuo para planificar proyectos.
+
+. Proyecto: Es la planificación de la utilización de recursos del individuo, organizada para la consecución de un objetivo principal que le da sentido, y opcionalmente objetivos secundarios, que busca conseguir uno o más beneficios alineados con los objetivos de identidad del individuo. Responde entonces a la situación actual del individuo y a la identidad deseada de éste.
+
+. Estado de los asuntos: Es una forma de determinar la evolución de los asuntos; puede estar pendiente si aún no se está accionando, puede estar completado si ya fue accionado, puede estar pendiente porque está bloqueado con otro asunto que impide el accionar, puede estar cancelado porque se decidió suspender el accionar.
