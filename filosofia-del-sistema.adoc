@@ -18,9 +18,47 @@ La elección de prácticas se basa en criterios a formular en esta filosofía.
 
 Otro objetivo secundario es la formulación de un lenguaje obicuo propio, que el sistema posicional heredará, el cual se verá a lo largo de toda la propuesta tanto en las áreas más abstractas, como en varias concretitudes.
 
-== Modelos de datos del sistema
+== Objetivos del sistema posicional
 
-Individuo: Identidad para el área sociológica, Área sociológica, Área de su saber, Área de su producción, Área de sus recursos
+El objetivo principal es mejorar la situación vital del individuo, acercándolo a su concepto racional de felicidad.
+
+Los objetivos secundarios y heredados son:
+
+. Aumentar la comprensión del individuo sobre sus objetivos y concepto de felicidad
+. Manejar la complejidad de información en la vida
+. Aumentar la inteligencia estratégica individual 
+. Aumentar la productividad
+. Aprovechar lo mejor posible los recursos.
+
+== Modelos de datos del sistema (o elementos)
+
+Individuo: Agente causal principal del sistema. 
+Contiene: 
+
+. Identidad para el área sociológica 
+. Área sociológica 
+. Área de su saber 
+. Área de producción 
+. Área de sus recursos
+
+Input: Información nueva que aparece en el consciente
+Contiene: 
+
+. Información nueva 
+. relaciónes con los objetivos de medio plazo 
+. prioridad (relativa y dependiente del anterior) 
+. Significado (relativo al individuo) e Impacto (Qué debería hacer el individuo frente al significado)
+
+Inbox: Contenedor físico o digital de inputs
+Contiene:
+
+. Espacio
+. Separadores
+. Filtros
+
+Método: Definicion concreta de un flujo de trabajo para un asunto metodologizable
+
+Situación actual:
 
 == El individuo
 
@@ -28,7 +66,7 @@ El sistema posicional tiene cómo problema principal el llevar a un individuo hu
 
 El individuo se llama de esa forma, y no "Persona", porque el primer término está más cerca del concepto "especie humana" que se relaciona más al objetivo principal que el concepto "Persona" el cual no se diferencia de conceptos de Derecho o Ética, dos áreas que no son de interés principal del sistema.
 
-Para mayor simplicidad de lectura, es recomendable entender como Individuo a vos mismo/a. Sin embargo, por motivos de explicación, la redacción siempre mantendrá el término inalterable.
+Para mayor simplicidad de lectura, es recomendable entender como Individuo a usted mismo/a. Sin embargo, por motivos de explicación, la redacción siempre mantendrá el término inalterable.
 
 == Áreas del individuo
 
