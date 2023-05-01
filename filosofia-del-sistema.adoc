@@ -30,6 +30,12 @@ Los objetivos secundarios y heredados son:
 . Aumentar la productividad
 . Aprovechar lo mejor posible los recursos.
 
+Los principios son:
+
+A más importante/prioritario un asunto, más complejidad se le da a su administracion (sea organizacion, planificación, ejecución, inversion, etc) y a menos importante, menos complejo.
+
+El individuo, por uso demostrable de razón, puede decidir ignorar el sistema de alguna manera eventualmente, o crear métodos propios y otras extensiones mientras se mantenga congruente con la filosofía.
+
 == Modelos de datos del sistema (o elementos)
 
 Individuo: Agente causal principal del sistema. 
