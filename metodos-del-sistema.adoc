@@ -1,0 +1,36 @@
+
+== Metodos Deterministicos
+
+. Definir importancia
+
+Def: "Definir Importancia" es determinar y registrar cuanto importa un asunto dentro del sistema. Al ser un sistema Holistico, la importancia es un valor extraido mediannte la relacion de varios elementos, debido a que la definicion se da en base a Criterios.
+
+== Criterios de definicion de importancia:
+
+=== Definir importancia en base a Foco de Areas Temporal y Objetivos que impacta directamente
+
+Expresion verbal: La importancia es el impacto en la identidad (esperado) sumado al Foco de Areas Temporal actual; en caso de pertenecer al foco se le suma la mitad del valor del impacto en identidad, caso contrario no se suma nada.
+
+Expresion aljebraica: Importancia = impacto_en_identidad+0.5impacto_en_identidad*foco_areas_temporal (Sabiendo que foco areas temporal es un valor binario, 1 es si, 0 es no)
+
+Caso de uso:
+Queremos aumentar el juego tactico por sobre el estrategico, sin dejar de ser eficaces en niveles superiores a los de la accion. Tenemos quiza una saturacion de asuntos que atender, por lo que nos hemos cerrado a un Foco de Areas temporal, y queremos avanzar de forma constante.
+
+. Definir inversion estimada
+
+Def: "Definir inversion estimada" es determinar y registrar que recursos y cuanto de estos requerimos para completar un asunto. Se requiere una definicion concreta del asunto, asi como del estado de completitud de este. Ademas, se requiere revisar los recursos individuales disponibles y la situacion actual.
+
+== Revisiones
+
+Revision de recursos individuales: Los recursos individuales deben estar cuantificados. 
+
+La cuantificacion es valorar cuanto tenemos, la sugerencia es realizarlo mediante considerar lo que sabemos que no tenemos para mayor realismo.
+
+Ademas los recursos deben ser valorados dentro de una franja temporal en la que el individuo tenga una estabilidad rutinaria, comprendiendo la naturaleza temporal de los recursos del Individuo. 
+
+En lineas generales (recursos generales):
+
+- ¿Cuanto tiempo libre (de compromisos fijos) tiene <esta semana>?
+- ¿Cuanto dinero le queda luego de cubrir sus deudas actuales <este mes>?
+- ¿Cuanta energia mental cree disponer <esta hora>?
+- ¿Cuantas personas cree que estan dispuestas a ayudarlo <este mes>?
